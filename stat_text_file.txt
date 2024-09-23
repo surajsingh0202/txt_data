@@ -1,0 +1,4 @@
+statics is the branch of classical mechanics that is concerned with
+ the analysis of force and torque acting on a physical system 
+that does not experience an acceleration,
+ but rather is in equilibrium with its environment
